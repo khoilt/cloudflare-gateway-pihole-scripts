@@ -12,11 +12,11 @@ urls=(
   https://raw.githubusercontent.com/DandelionSprout/adfilt/master/Alternate%20versions%20Anti-Malware%20List/AntiMalwareHosts.txt
   https://adaway.org/hosts.txt
   https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts
-  https://raw.githubusercontent.com/bigdargon/hostsVN/master/option/domain.txt    #bổ sung (hostsVN)
-  https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt              #bổ sung (AdGuard DNS, Formerly AdGuard Simplified Domain)
-  https://big.oisd.nl/domains                                                     #bổ sung (OISD Big)
-  https://raw.githubusercontent.com/hagezi/dns-blocklists/main/domains/multi.txt  #bổ sung (HaGeZi - Multi ULTIMATE)
-  https://raw.githubusercontent.com/badmojr/1Hosts/master/Lite/domains.txt        #bổ sung (1Host Lite)
+  https://raw.githubusercontent.com/bigdargon/hostsVN/master/option/domain.txt
+  https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
+  https://big.oisd.nl/domains
+  https://raw.githubusercontent.com/hagezi/dns-blocklists/main/domains/multi.txt
+  https://raw.githubusercontent.com/badmojr/1Hosts/master/Lite/domains.txt
 )
 
 # loop through the urls and download each file with curl
