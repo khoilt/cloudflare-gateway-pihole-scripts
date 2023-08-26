@@ -11,6 +11,7 @@ urls=(
   # https://raw.githubusercontent.com/FadeMind/hosts.extras/master/add.Risk/hosts
   # https://raw.githubusercontent.com/DandelionSprout/adfilt/master/Alternate%20versions%20Anti-Malware%20List/AntiMalwareHosts.txt
   # https://adaway.org/hosts.txt
+  https://raw.githubusercontent.com/d3ward/toolz/master/src/d3host.txt
   https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts
   https://raw.githubusercontent.com/bigdargon/hostsVN/master/option/domain.txt
   https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
